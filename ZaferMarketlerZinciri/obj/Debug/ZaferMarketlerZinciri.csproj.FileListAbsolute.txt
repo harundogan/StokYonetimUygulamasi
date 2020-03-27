@@ -1,0 +1,16 @@
+C:\Users\harundogann\source\repos\ZaferMarketlerZinciri\ZaferMarketlerZinciri\bin\Debug\ZaferMarketlerZinciri.exe.config
+C:\Users\harundogann\source\repos\ZaferMarketlerZinciri\ZaferMarketlerZinciri\bin\Debug\ZaferMarketlerZinciri.exe
+C:\Users\harundogann\source\repos\ZaferMarketlerZinciri\ZaferMarketlerZinciri\bin\Debug\ZaferMarketlerZinciri.pdb
+C:\Users\harundogann\source\repos\ZaferMarketlerZinciri\ZaferMarketlerZinciri\obj\Debug\ZaferMarketlerZinciri.csprojAssemblyReference.cache
+C:\Users\harundogann\source\repos\ZaferMarketlerZinciri\ZaferMarketlerZinciri\obj\Debug\ZaferMarketlerZinciri.LoginForm.resources
+C:\Users\harundogann\source\repos\ZaferMarketlerZinciri\ZaferMarketlerZinciri\obj\Debug\ZaferMarketlerZinciri.Properties.Resources.resources
+C:\Users\harundogann\source\repos\ZaferMarketlerZinciri\ZaferMarketlerZinciri\obj\Debug\ZaferMarketlerZinciri.csproj.GenerateResource.cache
+C:\Users\harundogann\source\repos\ZaferMarketlerZinciri\ZaferMarketlerZinciri\obj\Debug\ZaferMarketlerZinciri.exe
+C:\Users\harundogann\source\repos\ZaferMarketlerZinciri\ZaferMarketlerZinciri\obj\Debug\ZaferMarketlerZinciri.pdb
+C:\Users\harundogann\source\repos\ZaferMarketlerZinciri\ZaferMarketlerZinciri\obj\Debug\ZaferMarketlerZinciri.Main.resources
+C:\Users\harundogann\source\repos\ZaferMarketlerZinciri\ZaferMarketlerZinciri\bin\Debug\EntityFramework.dll
+C:\Users\harundogann\source\repos\ZaferMarketlerZinciri\ZaferMarketlerZinciri\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\harundogann\source\repos\ZaferMarketlerZinciri\ZaferMarketlerZinciri\bin\Debug\EntityFramework.xml
+C:\Users\harundogann\source\repos\ZaferMarketlerZinciri\ZaferMarketlerZinciri\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\harundogann\source\repos\ZaferMarketlerZinciri\ZaferMarketlerZinciri\obj\Debug\ZaferMarketlerZinciri.csproj.CopyComplete
+C:\Users\harundogann\source\repos\ZaferMarketlerZinciri\ZaferMarketlerZinciri\obj\Debug\ZaferMarketlerZinciri.ChangePassword.resources
