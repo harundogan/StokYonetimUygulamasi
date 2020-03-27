@@ -1,5 +1,5 @@
 # StokYonetimUygulamasi
-Bu proje C# kullanılarak oluşturulmuştur.
+Bu proje C# ve MSSQL kullanılarak oluşturulmuştur.
 Projede Ado.Net kullanılarak veritabanı bağlantısı kurulmuş ve veri ekleme,güncelleme ve silme işlemleri yapılmıştır.
 Yeni ürünler eklenebilmekte,mevcut ürünler güncellenmekte ve silinebilmektedir.
 Bir sonraki projemi EntityFramework ve Linq sorguları kullanarak oluşturmayı amaçlıyorum.
