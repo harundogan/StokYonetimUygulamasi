@@ -8,3 +8,4 @@ Veritabanına erişen herhangi biri gerçek şifreyi değil bu key anahtarını 
 Ekstra olarak projede şifre değiştirirken StreamWriter metodu ile bir dosya oluşturuyor ve key anahtarı ile şifreyi buraya atıyoruz.
 Ve bu key ile şifrenin oluşturulan dosyada görülememesi için karakter karakter okuyarak char tipine dönüştürerek verilerin okunamayacak bir şekle dönüşmesini sağlıyoruz.
 Ve ek olarak projede şifre değiştirirken şifrenin güvenli olup olmadığı konusunda kullanıcıya girdiği şifrenin zayıf mı güçlü mü olduğu konusunda yardımcı oluyoruz.
+* Uygulamayı kullanmak isterseniz ilk önce şifremi unuttum linkine tıklayarak açılan panelden yeni şifre oluşturmalısınız.
