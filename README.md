@@ -2,7 +2,6 @@
 Bu proje C# ve MSSQL kullanılarak oluşturulmuştur.
 Projede Ado.Net kullanılarak veritabanı bağlantısı kurulmuş ve veri ekleme,güncelleme ve silme işlemleri yapılmıştır.
 Yeni ürünler eklenebilmekte,mevcut ürünler güncellenmekte ve silinebilmektedir.
-Bir sonraki projemi EntityFramework ve Linq sorguları kullanarak oluşturmayı amaçlıyorum.
 Verileri şifrelemeyi merak ettiğim için projede güvenli olduğuna kanaat getirdiğim TripleDES yöntemini kullandım.
 Mevcut kullanıcı şifresini sıfırlarken şifreleme yöntemi sayesinde bir key oluşuyor ve bu key veritabanına şifre olarak kaydediliyor.
 Veritabanına erişen herhangi biri gerçek şifreyi değil bu key anahtarını görüyor.
